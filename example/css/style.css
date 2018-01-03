@@ -104,3 +104,7 @@ h1 {
         display: none;
     }
 }
+
+p {
+    font-weight: bold;
+}
